@@ -30,7 +30,7 @@ Used bootstrap.css for basic styling.
 1. Downlod the code
 2. Open terminal 
 3. Navigate to the Athene-app project folder
-4. Enter 'npm start' 
+4. Enter 'npm start'  (Install npm if already doest not exist)
 
 This wii runs the app
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
